@@ -7,7 +7,7 @@
         [["Necesitamos tu ayuda", "Guardian"]],
         [["La gema está en la cueva", "Guardian"]],
         [["Ten cuidado con el monstruo", "Guardian"]],
-        [["Toma esta espada", "Guardian"]]
+        [["Toma esta espada", "Guardian"]],
         
         [["zzzzzzzzz", "Player"]],
         [["zzzzzzzzz", "Player"]],
@@ -15,5 +15,5 @@
         [["zzzzzzzzz", "Player"]],
         [["zzzzzzzzz", "Player"]]
       ]
-    }
+}
   
