@@ -1,11 +1,22 @@
 {
-  "c2array": true,
-  "size": [5, 1, 1],
-  "data": [
-    [["Hola, viajero del norte."]],
-    [["Has llegado al Valle del Eco."]],
-    [["Aquí se oculta un antiguo poder."]],
-    [["Solo los valientes logran dominarlo."]],
-    [["¿Estás listo para comenzar tu destino?"]]
-  ]
+  "c2dictionary": true,
+  "data": {
+    "Guardian": {
+      "c2array": true,
+      "size": [10, 1, 2],
+      "data": [
+        [["Hola viajero", "Guardian"]],
+        [["Necesitamos tu ayuda", "Guardian"]],
+        [["La gema está en la cueva", "Guardian"]],
+        [["Ten cuidado con el monstruo", "Guardian"]],
+        [["Toma esta espada", "Guardian"]]
+        
+        [["zzzzzzzzz", "Player"]],
+        [["zzzzzzzzz", "Player"]],
+        [["zzzzzzzzz", "Player"]],
+        [["zzzzzzzzz", "Player"]],
+        [["zzzzzzzzz", "Player"]]
+      ]
+    }
+  }
 }
