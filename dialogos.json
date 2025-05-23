@@ -1,7 +1,5 @@
 {
-  "c2dictionary": true,
-  "data": {
-    "Guardian": {
+ 
       "c2array": true,
       "size": [10, 1, 2],
       "data": [
@@ -18,5 +16,4 @@
         [["zzzzzzzzz", "Player"]]
       ]
     }
-  }
-}
+  
