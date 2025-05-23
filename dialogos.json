@@ -1,9 +1,11 @@
 {
   "c2array": true,
-  "size": [3, 1, 1],
+  "size": [5, 1, 1],
   "data": [
-    [["Hola, bienvenido a la aventura."]],
-    [["Tu misión es encontrar la llave mágica."]],
-    [["Buena suerte en tu viaje."]]
+    [["Hola, viajero del norte."]],
+    [["Has llegado al Valle del Eco."]],
+    [["Aquí se oculta un antiguo poder."]],
+    [["Solo los valientes logran dominarlo."]],
+    [["¿Estás listo para comenzar tu destino?"]]
   ]
 }
